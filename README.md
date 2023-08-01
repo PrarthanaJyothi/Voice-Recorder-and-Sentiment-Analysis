@@ -1,4 +1,5 @@
-Voice Recording and Sentiment Analysis
+# Voice Recording and Sentiment Analysis
+
 This project uses the speech_recognition and vaderSentiment libraries to record a voice message, transcribe the text, and then perform sentiment analysis on the text.
 
 Requirements:
