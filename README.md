@@ -4,27 +4,27 @@ This project uses the speech_recognition and vaderSentiment libraries to record 
 
 Requirements
 
-  Python 3
-  Pip
+  *Python 3
+  *Pip
 
 The following Python libraries:
 
-  speech_recognition
-  vaderSentiment
+  *speech_recognition
+  *vaderSentiment
 
 Installation
 
-Clone this repository.
-Install the required Python libraries using pip
+  *Clone this repository.
+  *Install the required Python libraries using pip
 
 Usage
 
-  Run the main.py file.
-  Speak your message into the microphone.
-  The message will be transcribed and the sentiment analysis results will be printed to the console.
+  *Run the main.py file.
+  *Speak your message into the microphone.
+  *The message will be transcribed and the sentiment analysis results will be printed to the console.
 
 Additional Information
 
-  The main.py file contains the code for recording the voice message, transcribing the text, and performing sentiment analysis.
-  The vaderSentiment.py file contains the VaderSentiment sentiment analysis library. This library uses a lexicon of words to determine the sentiment of a piece of text.
-  The project is licensed under the MIT License.
+  *The main.py file contains the code for recording the voice message, transcribing the text, and performing sentiment analysis.
+  *The vaderSentiment.py file contains the VaderSentiment sentiment analysis library. This library uses a lexicon of words to determine the sentiment of a piece of text.
+  
