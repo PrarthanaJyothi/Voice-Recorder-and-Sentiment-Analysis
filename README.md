@@ -7,7 +7,7 @@ Requirements:
   * Pip
   * 
 The following Python libraries:
-  * speech_recognition
+  * speech_recognition 
   * vaderSentiment
     
 Installation:
