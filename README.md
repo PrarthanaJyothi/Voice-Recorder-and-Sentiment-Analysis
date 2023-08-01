@@ -5,10 +5,9 @@ Requirements:
 
   * Python 3
   * Pip
-  * 
-The following Python libraries:
-  * speech_recognition 
-  * vaderSentiment
+  * The following Python libraries:
+      * speech_recognition 
+      * vaderSentiment
     
 Installation:
 
