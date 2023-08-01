@@ -4,8 +4,8 @@ This project uses the speech_recognition and vaderSentiment libraries to record 
 
 Requirements
 
-  .Python 3
-  .Pip
+  Python 3
+  Pip
 
 The following Python libraries:
 
